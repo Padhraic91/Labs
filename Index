@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>My Practice Website</title>
+<meta charset="utf-8">
+</head>
+<body>
+<h1>Fish Creek Aniaml Hospital</h1>
+  <p>
+  <ul>
+    <a href=" Home ">Home</a>
+    <a href=" Services ">Services</a>
+    <a href=" Ask The Vet ">Ask The Vet</a>
+    <a href="Contact">Contact</a>
+  </ul>
+</body>
+<p>
+<dl>
+<dt>Full Service Facility</dt>
+<dd>Veterinarians and staff are on duty 24 hours a day, 7 days a week</dd>
+<dt>Years of experience</dt>
+<dd>Fish Creek Veterinarians have provided quality, dependable care for your animals since 1984.</dd>
+<dt>Open Door policy</dt>
+<dd>Our professionals welcome owners to stay with their pets during any medical procedure.</dd><br>
+</dl>
+<dl>
+<dt>1-800-555-5555</dt>
+<dt>1242 Grassy Lane</dt>
+<dt>Fish Creek , WI 55534</dt><br>
+</dl>
+<em>Copyright 2013 Fish Creek Aniaml Hospital</em><br>
+<a href="Padhraic Coll">Padhraic@Coll.com</a>
+
